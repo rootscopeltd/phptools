@@ -18,6 +18,7 @@ $og_url = isset($og_url) ?? '';
   <meta name="description" content="<?php echo $description; ?>">
   <meta name="author" content="Michal Slepko @ Rootscope">
 
+  <link rel="canonical" href="https://phpunserialize.com">
   <meta property="og:title" content="<?php echo $og_title; ?>">
   <meta property="og:type" content="website">
   <meta property="og:url" content="<?php echo $og_url; ?>">
