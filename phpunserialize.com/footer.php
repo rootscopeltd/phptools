@@ -13,6 +13,7 @@
         <div class="footer-column">
             <h3>Built By</h3>
             <p>Created with ❤️ by <a href="https://michalslepko.dev" target="_blank">Michal Slepko</a> and <a href="https://rootscope.dev" target="_blank">Rootscope</a></p>
+            <p><a href="https://dashboard.simpleanalytics.com/phpunserialize.com" target="_blank">Stats</a></p>
         </div>
     </div>
 </footer>
