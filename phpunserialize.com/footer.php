@@ -2,7 +2,7 @@
     <div class="footer-content">
         <div class="footer-column">
             <h3>About</h3>
-            <p>PHP Unserialize Viewer is a simple yet powerful tool that allows you to safely inspect and validate PHP serialized data. Perfect for debugging, development, and educational purposes.</p>
+            <p>PHP Unserialize Viewer provides a simple interface to convert a serialized PHP string back into its original PHP data structure. Perfect for debugging, development, and educational purposes. Just paste your serialized string in the box below and click "Unserialize".</p>
         </div>
         <div class="footer-column">
             <h3>Links</h3>
