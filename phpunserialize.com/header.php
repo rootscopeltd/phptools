@@ -24,11 +24,7 @@ $og_url = isset($og_url) ?? '';
   <meta property="og:url" content="<?php echo $og_url; ?>">
   <meta property="og:description" content="<?php echo $og_description; ?>">
   <meta property="og:image" content="image.png">
-  <?php /*
-  <link rel="icon" href="/favicon.ico">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-  */ ?>
   <link rel="stylesheet" href="/clearfix.css">
   <link rel="stylesheet" href="/styles.css">
 
